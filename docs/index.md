@@ -13,7 +13,7 @@ Ejemplo: `/admin disable` - En caso de que quieras desactivar el módulo de expe
 
 En todo caso, también tienes los comandos `/admin config xp` para que puedas seleccionar cuanta experiencia quieres que se otorgue a los usuarios, el comando te da la opción de establecer estos valores tanto para voz como para texto.
 
-Por último tenemos el comando `/admin config xp-channel` que te permite seleccionar el canal en el que se mostrarán los mensajes de experiencia, por defecto al subir de nivel un usuario, el bot responde al mensaje con el que subió de nivel, pero si deseas que se muestre en un canal en específico, puedes hacerlo con este comando, también lo puedes utilizar para seleccionar el canal para los usuarios que suben de nivel.
+Por último tenemos el comando `/admin config xp-channel` que te permite seleccionar el canal en el que se mostrarán los mensajes de experiencia, por defecto al subir de nivel un usuario, el bot responde al mensaje con el que subió de nivel, pero si deseas que se muestre en un canal en específico, puedes hacerlo con este comando, también lo puedes utilizar para seleccionar el canal para los usuarios que suben de nivel en canales de voz.
 
 ### Comandos de Administrador
 
