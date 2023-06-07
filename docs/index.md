@@ -9,7 +9,7 @@ Catto es un bot de Discord que busca incentivar la participación de los usuario
 Para empezar, al agregar el bot a tu servidor, los módulos de experiencia tanto texto como voz se activan por defecto, por lo que no es necesario configurar nada para empezar a utilizarlo. Sin embargo, si deseas cambiar la configuración de los módulos, puedes hacerlo utilizando el comando `config` y el nombre del módulo que deseas configurar.
 
 ## Comandos
-Ejemplo: `/admin config disable` - En caso de que quieras desactivar el módulo de experiencia de texto o de voz, solo debes ejecutarlo y seleccionar el que desees desactivar. 
+Ejemplo: `/admin disable` - En caso de que quieras desactivar el módulo de experiencia de texto o de voz, solo debes ejecutarlo y seleccionar el que desees desactivar. 
 
 En todo caso, también tienes los comandos `/admin config xp` para que puedas seleccionar cuanta experiencia quieres que se otorgue a los usuarios, el comando te da la opción de establecer estos valores tanto para voz como para texto.
 
@@ -19,8 +19,8 @@ Por último tenemos el comando `/admin config xp-channel` que te permite selecci
 
 A continuación te dejo la lista completa de comandos que puedes utilizar como administrador:
 
-* `/admin config disable` - Puedes desactivar un módulo de el bot completamente.
-* `/admin config disable` - Puedes activar un módulo de el bot completamente.
+* `/admin disable` - Puedes desactivar un módulo de el bot completamente.
+* `/admin enable` - Puedes activar un módulo de el bot completamente.
 * `/admin config notification` - Puedes personalizar el mensaje que se envía cuando un usuario sube a un nuevo nivel.
 * `/admin config rol` - Selecciona los roles que quieres que se otorguen al subir de nivel.
 * `/admin config xp` - Establece el mínimo y máximo de experiencia que se le dará a los usuarios.
