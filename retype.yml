@@ -1,0 +1,35 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: Catto Coffee
+  label: v2.2.0
+links:
+- text: Invita al bot
+  link: https://discord.com/api/oauth2/authorize?client_id=1000184915591168080&permissions=8&scope=bot
+- text: Servidor de soporte
+  link: https://discord.com/invite/z2agftzTyp/
+- text: Blog
+  link: ./blog
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+generator:
+  directoryIndex:
+    append: false
+locale: es
+meta:
+  title: " | Catto Coffee Documentation"
+search:
+  hotkeys:
+    - "s"
+  maxResults: 20
+  minChars: 3
+  mode: partial
+  noResultsFoundMsg: Ningún elemento coincide con la búsqueda.
+  placeholder: Buscar
+  preload: true
+snippets:
+  lineNumbers:
+    - js
+    - json
+    - py

@@ -1,0 +1,72 @@
+{
+  "version": "3.1.0",
+  "created": "2024-01-22T19:31:36Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "docs\\index.html"
+    },
+    {
+      "path": "docs\\privacy\\document.pdf"
+    },
+    {
+      "path": "docs\\privacy\\index.html"
+    },
+    {
+      "path": "docs\\terms\\document.pdf"
+    },
+    {
+      "path": "docs\\terms\\index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.js"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    }
+  ]
+}
