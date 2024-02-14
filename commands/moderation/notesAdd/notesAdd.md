@@ -4,7 +4,7 @@ layout: central
 
 [!button text="Volver" size="s" variant="contrast" icon="chevron-left"](../moderation.md)
 # `/mod notes add`
-### Description
+### Descripción
 Añade una nota de moderación a un usuario. Sea lo que sea que haya hecho, no se te olvidará, y podrás adjuntar archivos de hasta 25MB o establecer que sólo un rol en específico tenga acceso a ella.
 
 ### Uso
