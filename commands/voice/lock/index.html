@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.761255009724">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.761262410092">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -11,6 +11,7 @@
     <!-- Primary Meta Tags -->
     <title>/voice lock | Catto Coffee Documentation</title>
     <meta name="title" content="/voice lock | Catto Coffee Documentation">
+    <meta name="description" content="Bloquea o desbloquea el canal. En un canal bloqueado sólo las personas con permiso explícito de acceso pueden entrar.">
 
     <!-- Canonical -->
     <link rel="canonical" href="/commands/voice/lock/">
@@ -19,20 +20,22 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="/commands/voice/lock/">
     <meta property="og:title" content="/voice lock | Catto Coffee Documentation">
+    <meta property="og:description" content="Bloquea o desbloquea el canal. En un canal bloqueado sólo las personas con permiso explícito de acceso pueden entrar.">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="/commands/voice/lock/">
     <meta property="twitter:title" content="/voice lock | Catto Coffee Documentation">
+    <meta property="twitter:description" content="Bloquea o desbloquea el canal. En un canal bloqueado sólo las personas con permiso explícito de acceso pueden entrar.">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../../resources/css/retype.css?v=3.5.0.761255009724" rel="stylesheet">
+    <link href="../../../resources/css/retype.css?v=3.5.0.761262410092" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../../resources/js/config.js?v=3.5.0.761255009724" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../../resources/js/config.js?v=3.5.0.761262410092" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script data-cfasync="false" src="../../../resources/js/search.js?v=3.5.0.761255009724" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../../resources/js/lunr.js?v=3.5.0.761255009724" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../../resources/js/search.js?v=3.5.0.761262410092" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../../resources/js/lunr.js?v=3.5.0.761262410092" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -182,6 +185,47 @@
         <span><code v-pre>/voice lock</code></span>
     </h1>
 </doc-anchor-target>
+<doc-anchor-target id="descripción">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#descripción">#</doc-anchor-trigger>
+        <span>Descripción</span>
+    </h3>
+</doc-anchor-target>
+<p>Bloquea o desbloquea el canal. En un canal bloqueado sólo las personas con permiso explícito de acceso pueden entrar.</p>
+<doc-anchor-target id="uso">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#uso">#</doc-anchor-trigger>
+        <span>Uso</span>
+    </h3>
+</doc-anchor-target>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-none"><code v-pre class="language-none">/voice lock &lt;estado&gt;</code></pre>
+</doc-codeblock></div>
+<doc-anchor-target id="argumentos">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#argumentos">#</doc-anchor-trigger>
+        <span>Argumentos</span>
+    </h3>
+</doc-anchor-target>
+<p><code v-pre>estado</code> - ( Bloqueado | Desbloqueado ) Actualización del estado del canal referente a si es de libre acceso o no.</p>
+<doc-anchor-target id="ejemplo">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#ejemplo">#</doc-anchor-trigger>
+        <span>Ejemplo</span>
+    </h3>
+</doc-anchor-target>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-none"><code v-pre class="language-none">/voice lock estado:Desbloqueado</code></pre>
+</doc-codeblock></div>
+<doc-anchor-target id="permisos">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#permisos">#</doc-anchor-trigger>
+        <span>Permisos</span>
+    </h3>
+</doc-anchor-target>
+<p><button class="no-link inline-flex align-middle items-center font-medium cursor-pointer transition-colors duration-200 ease-out focus:outline-none bg-gray-500 hover:bg-gray-600 dark:bg-dark-400 dark:hover:bg-dark-450 text-white px-2.5 h-6 text-xs rounded">
+    <span>@everyone</span>
+</button></p>
 
                             
                             <!-- Required only on API pages -->
