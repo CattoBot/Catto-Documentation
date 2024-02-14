@@ -3,12 +3,14 @@ output: .retype
 url: # Add your website address here
 branding:
   title: Catto Coffee
-  label: v2.2.0
+  label: v3.0.0-α.1
 links:
 - text: Invita al bot
   link: https://discord.com/api/oauth2/authorize?client_id=1000184915591168080&permissions=8&scope=bot
+  target: blank
 - text: Servidor de soporte
   link: https://discord.com/invite/z2agftzTyp/
+  target: blank
 - text: Blog
   link: ./blog
 footer:
