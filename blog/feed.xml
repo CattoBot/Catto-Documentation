@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>El blog de Catto</title>
+    <link>/blog/</link>
+    <description>El blog de Catto</description>
+    <copyright>© Copyright 2024. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 26 Jun 2023 18:50:00 GMT</lastBuildDate>
+    <generator>https://retype.com</generator>
+    <atom:link rel="self" type="application/rss+xml" href="/blog/feed.xml" />
+    <item>
+      <title>v2.0.7</title>
+      <guid isPermaLink="true">/blog/2_0_7/</guid>
+      <description>¡Esto es un terremoto en el mundo de los bots de Discord!¡Nada queda igual en nuestras entrañas de TypeScript! Hemos desafiado todas las leyes de la...</description>
+      <pubDate>Mon, 26 Jun 2023 18:50:00 GMT</pubDate>
+      <category domain="/categories/versiones/">Versiones</category>
+    </item>
+    <item>
+      <title>v1.8.5</title>
+      <guid isPermaLink="true">/blog/1_8_5/</guid>
+      <description>Se ha agregado el sistema de experiencia por texto, pueden decidir cuanta experiencia se da por minuto con el comando </description>
+      <pubDate>Mon, 05 Jun 2023 03:13:00 GMT</pubDate>
+      <category domain="/categories/versiones/">Versiones</category>
+    </item>
+    <item>
+      <title>v1.6.7</title>
+      <guid isPermaLink="true">/blog/1_6_7/</guid>
+      <description>Tenemos el placer de presentar de forma oficial las notas.</description>
+      <pubDate>Sun, 23 Apr 2023 15:25:00 GMT</pubDate>
+      <category domain="/categories/versiones/">Versiones</category>
+    </item>
+    <item>
+      <title>v1.3.5</title>
+      <guid isPermaLink="true">/blog/1_3_2/</guid>
+      <description>Tenemos algo increíble para vosotros Presentamos los nuevos comandos de moderación de Voice Channels:</description>
+      <pubDate>Mon, 10 Apr 2023 10:21:00 GMT</pubDate>
+      <category domain="/categories/versiones/">Versiones</category>
+    </item>
+    <item>
+      <title>Catto Testers</title>
+      <guid isPermaLink="true">/blog/catto_testers/</guid>
+      <description>¿Sabías que hay un misterioso grupo de usuarios que han jurado mantener en su servidor a una salvaje y peligrosa versión de Catto que no ha sido...</description>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+      <category domain="/categories/testers/">Testers</category>
+    </item>
+    <item>
+      <title>v0.1</title>
+      <guid isPermaLink="true">/blog/0_1/</guid>
+      <description>Nuestra primera versión.</description>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 GMT</pubDate>
+      <category domain="/categories/versiones/">Versiones</category>
+    </item>
+  </channel>
+</rss>
