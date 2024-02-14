@@ -8,6 +8,7 @@ layout: central
 Obtén la información de una nota en concreto, como su autor, usuario afectado, fecha, hora y más.
 
 ### Uso
+![](cmd.jpg)
 ```
 /mod notes info <id>
 ```

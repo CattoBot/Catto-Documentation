@@ -8,6 +8,7 @@ layout: central
 Obtén una lista con todas las notas que a cierto usuario se le han dado.
 
 ### Uso
+![](cmd.jpg)
 ```
 /mod notes list <usuario>
 ```

@@ -8,6 +8,7 @@ layout: central
 Añade una nota de moderación a un usuario. Sea lo que sea que haya hecho, no se te olvidará, y podrás adjuntar archivos de hasta 25MB o establecer que sólo un rol en específico tenga acceso a ella.
 
 ### Uso
+![](cmd.jpg)
 ```
 /mod notes add <usuario> <texto> [adjunto1] ... [adjunto5] [restricción]
 ```
@@ -15,7 +16,7 @@ Añade una nota de moderación a un usuario. Sea lo que sea que haya hecho, no s
 ### Argumentos
 `usuario` - Usuario al que se le adjuntará la nota.<br>
 `texto` - Nota a adjuntar.<br>
-`adjunto1-6` - Archivos a añadir en la nota (No pueden superar los 25MB en conjunto).<br>
+`adjunto1-5` - Archivos a añadir en la nota (No pueden superar los 25MB en conjunto).<br>
 `restricción` - Rol que podrá ver la nota (En caso de no especificarse, todos los moderadores podrán).
 
 ### Ejemplo
