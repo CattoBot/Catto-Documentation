@@ -5,10 +5,13 @@ icon: command-palette
 
 # Comandos
 
-!!!
-Una categoría es un grupo de comandos que se registran bajo el mismo nombre. Un claro ejemplo de ello es la categoría `voice`. En todos sus comandos debes introducir obligatoriamente el nombre "voice" de la categoría para poder emplear el comando.
-<br><br>
-Ejemplo: `/voice name`
+!!!dark
+##### :icon-hash: Categoría de comandos
+Conjunto de comandos que se agrupan bajo el mismo nombre.
+Puede apreciarse en casos como la categoría `voice` con comandos como el `/voice name` o el `/voice limit`.
+
+##### :icon-command-palette: Comando
+Mensaje enviado al ordenador que provoca una respuesta en este sistema y se comporta como una orden. En Discord el mensaje es enviado a un bot y éste responde con una acción concreta entendiéndose como una orden por parte del usuario.
 !!!
 
 Seleccione a continuación la categoría o comando del que deseas obtener más información.
