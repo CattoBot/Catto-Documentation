@@ -8,7 +8,7 @@ layout: central
 Cárgate del poder que los administradores te otorgan y usa estos comandos para el bien, pues un gran poder, conlleva una gran responsabilidad.
 
 ### Permisos
-[!button text="Gestión de mensajes" size="xs" variant="warning"]
+[!button text="Gestión de mensajes" size="xs" variant="primary"]
 
 ### Subcomandos
 [:icon-command-palette: `/mod notes add`](./notesAdd/notesAdd.md)<br>

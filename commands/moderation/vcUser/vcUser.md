@@ -21,4 +21,4 @@ Obtén todos los datos posibles sobre el canal en el que se encuentra un usuario
 ```
 
 ### Permisos
-[!button text="Gestión de mensajes" size="xs" variant="warning"]
+[!button text="Gestión de mensajes" size="xs" variant="primary"]

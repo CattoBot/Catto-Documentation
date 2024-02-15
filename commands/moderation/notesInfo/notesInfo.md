@@ -22,4 +22,4 @@ Obtén la información de una nota en concreto, como su autor, usuario afectado,
 ```
 
 ### Permisos
-[!button text="Gestión de mensajes" size="xs" variant="warning"]
+[!button text="Gestión de mensajes" size="xs" variant="primary"]

@@ -21,4 +21,4 @@ Modifica el límite de usuarios que puede haber en un canal de voz personalizado
 ```
 
 ### Permisos
-[!button text="Gestión de mensajes" size="xs" variant="warning"]
+[!button text="Gestión de mensajes" size="xs" variant="primary"]

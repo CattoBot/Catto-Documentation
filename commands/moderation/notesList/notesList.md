@@ -22,4 +22,4 @@ Obtén una lista con todas las notas que a cierto usuario se le han dado.
 ```
 
 ### Permisos
-[!button text="Gestión de mensajes" size="xs" variant="warning"]
+[!button text="Gestión de mensajes" size="xs" variant="primary"]

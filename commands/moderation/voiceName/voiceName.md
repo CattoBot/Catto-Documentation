@@ -15,4 +15,4 @@ Al usar este comando se mostrará un formulario modal en el que se deberá intro
 ```
 
 ### Permisos
-[!button text="Gestión de mensajes" size="xs" variant="warning"]
+[!button text="Gestión de mensajes" size="xs" variant="primary"]

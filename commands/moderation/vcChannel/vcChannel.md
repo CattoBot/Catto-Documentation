@@ -21,4 +21,4 @@ Obtén todos los datos posibles de un canal de voz y sus integrantes, y accede a
 ```
 
 ### Permisos
-[!button text="Gestión de mensajes" size="xs" variant="warning"]
+[!button text="Gestión de mensajes" size="xs" variant="primary"]

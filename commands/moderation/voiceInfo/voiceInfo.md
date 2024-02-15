@@ -13,4 +13,4 @@ Obtén toda la información disponible del canal en el que te encuentras. Desde 
 ```
 
 ### Permisos
-[!button text="Gestión de mensajes" size="xs" variant="warning"]
+[!button text="Gestión de mensajes" size="xs" variant="primary"]

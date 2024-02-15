@@ -25,4 +25,4 @@ Añade una nota de moderación a un usuario. Sea lo que sea que haya hecho, no s
 ```
 
 ### Permisos
-[!button text="Gestión de mensajes" size="xs" variant="warning"]
+[!button text="Gestión de mensajes" size="xs" variant="primary"]
