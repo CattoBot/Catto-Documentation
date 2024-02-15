@@ -5,9 +5,16 @@
     <link>/blog/</link>
     <description>El blog de Catto</description>
     <copyright>© Copyright 2024. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 26 Jun 2023 18:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 22:14:00 GMT</lastBuildDate>
     <generator>https://retype.com</generator>
     <atom:link rel="self" type="application/rss+xml" href="/blog/feed.xml" />
+    <item>
+      <title>Versiones alpha</title>
+      <guid isPermaLink="true">/blog/alphas/</guid>
+      <description>Presentamos las versiones alpha de Catto. La nueva forma de ver el bot, sus nuevas funciones y nuestros planes a futuro.</description>
+      <pubDate>Thu, 15 Feb 2024 22:14:00 GMT</pubDate>
+      <category domain="/categories/versiones/">Versiones</category>
+    </item>
     <item>
       <title>v2.0.7</title>
       <guid isPermaLink="true">/blog/2_0_7/</guid>
