@@ -3,7 +3,9 @@ layout: central
 ---
 
 [!button text="Volver" size="s" variant="contrast" icon="chevron-left"](../commands.md)
-# `mod`
+
+# `/mod`
+
 ### Descripción
 Cárgate del poder que los administradores te otorgan y usa estos comandos para el bien, pues un gran poder, conlleva una gran responsabilidad.
 

@@ -3,12 +3,13 @@ layout: central
 ---
 
 [!button text="Volver" size="s" variant="contrast" icon="chevron-left"](../voice.md)
+
 # `/voice transfer`
+
 ### Descripción
 Transfiere la propiedad de canal a otro usuario y con ella los permisos para modificarlo y gestionarlo.
 
 ### Uso
-
 ```
 /voice transfer <usuario>
 ```
@@ -18,7 +19,6 @@ Transfiere la propiedad de canal a otro usuario y con ella los permisos para mod
 `usuario` - Usuario al que se le transferirá el canal
 
 ### Ejemplo
-
 ```
 /voice transfer usuario:gacarbla
 ```

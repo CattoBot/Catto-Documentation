@@ -3,7 +3,9 @@ layout: central
 ---
 
 [!button text="Volver" size="s" variant="contrast" icon="chevron-left"](../commands.md)
-# `voice`
+
+# `/voice`
+
 ### Descripción
 ¿Estás en tu canal personalizado? Demuestra quién manda y dale tu estilo al canal personalizándolo como quieras.
 

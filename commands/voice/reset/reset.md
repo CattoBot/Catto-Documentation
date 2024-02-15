@@ -3,7 +3,9 @@ layout: central
 ---
 
 [!button text="Volver" size="s" variant="contrast" icon="chevron-left"](../voice.md)
+
 # `/voice reset`
+
 ### Descripción
 Reinicia la configuración del canal y restáuralo a la configuración por defecto.
 
@@ -12,7 +14,6 @@ Al usar este comando no se muesta un mensaje de confirmación y los cambios efec
 !!!
 
 ### Uso
-
 ```
 /voice reset
 ```
